@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Downloads/Yummy/Yummy/assets"
+	},
+	{
+		"path": "../../Downloads/Yummy/Yummy/forms"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "final_project"
+  }
+}
